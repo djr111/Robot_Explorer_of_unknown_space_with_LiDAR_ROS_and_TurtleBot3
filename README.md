@@ -9,4 +9,7 @@ Detailed explanation of project and it's development available :[here](https://g
 This reposity contains all the ROS files and packages used for my project, including three SLAM algorithms : 
 Gmapping, Explore_Lite and RRT_exploration  
   
-Project was based on TurtleBot3 model waffle_Pi with LiDAR technology and open-source available software
+Project was based on TurtleBot3 model waffle_Pi with LiDAR technology and open-source available software  
+
+![EXPLORE_LITE-FINAL-SIMULATION](https://user-images.githubusercontent.com/58305266/192894459-b7fc3378-3ba5-480a-af16-bc76a9ac7b83.JPG)
+
