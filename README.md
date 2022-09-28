@@ -8,4 +8,4 @@ Detailed explanation of project and it's development available :[here](https://g
   
 This reposity contains all the ROS files and packages used for my project, including three SLAM algorithms :Gmapping, Explore_Lite and RRT_exploration  
   
-Project was based on TurtleBot3 model waffle and only open-source available software
+Project was based on TurtleBot3 model waffle_Pi and only open-source available software
